@@ -2,4 +2,4 @@
 Initial Commit
 
 **ScreenShots**
-<img src ="![combine_images](https://user-images.githubusercontent.com/48861031/129887178-89977359-f2d0-454d-a341-c8a6786d19ee.jpg)" width = "300">
+<img src ="https://user-images.githubusercontent.com/48861031/129887178-89977359-f2d0-454d-a341-c8a6786d19ee.jpg" width = "300">
