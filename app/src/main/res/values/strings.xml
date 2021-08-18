@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intern Task 3</string>
+    <string name="First_activity_name">Register</string>
+    <string name="second_activity_name">Weather today</string>
+    <string-array name="Gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
